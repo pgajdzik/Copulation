@@ -1,0 +1,106 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<TestRun id="18ecd863-d614-453d-8a3c-2ec37debaec6" name="Marta@KOMPUTER_XP 2011-06-23 20:57:51" runUser="KOMPUTER_XP\Marta" xmlns="http://microsoft.com/schemas/VisualStudio/TeamTest/2010">
+  <TestSettings name="Local" id="7fb36c14-15e6-4256-bf84-55fadce86cd6">
+    <Description>These are default test settings for a local test run.</Description>
+    <Deployment enabled="false" runDeploymentRoot="Marta_KOMPUTER_XP 2011-06-23 20_57_51">
+      <DeploymentItem filename="I:\Users\Przemek\Documents\Visual Studio 2010\Projects\Copulation\Copulation.Tests\Rhino.Mocks.dll" />
+      <DeploymentItem filename="I:\Users\Przemek\Documents\Visual Studio 2010\Projects\Copulation\Copulation\bin\Debug\Copulation.exe" />
+    </Deployment>
+    <Execution>
+      <TestTypeSpecific />
+      <AgentRule name="Execution Agents">
+      </AgentRule>
+    </Execution>
+  </TestSettings>
+  <Times creation="2011-06-23T20:57:51.0156250+02:00" queuing="2011-06-23T20:57:57.7343750+02:00" start="2011-06-23T20:57:58.0000000+02:00" finish="2011-06-23T20:57:59.9843750+02:00" />
+  <ResultSummary outcome="Completed">
+    <Counters total="11" executed="11" passed="11" error="0" failed="0" timeout="0" aborted="0" inconclusive="0" passedButRunAborted="0" notRunnable="0" notExecuted="0" disconnected="0" warning="0" completed="0" inProgress="0" pending="0" />
+  </ResultSummary>
+  <TestDefinitions>
+    <UnitTest name="LoadTheSamePluginsWithDifferentPathNames" storage="i:\users\przemek\documents\visual studio 2010\projects\copulation\copulation.tests\bin\debug\copulation.tests.dll" id="c989414e-5dc3-3142-66d9-2fc2d0c19752">
+      <Execution id="9d643d02-b6dc-4d3d-a79f-feb36756597a" />
+      <TestMethod codeBase="I:/Users/Przemek/Documents/Visual Studio 2010/Projects/Copulation/Copulation.Tests/bin/Debug/Copulation.Tests.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="Copulation.Tests.PluginManagerModelTest, Copulation.Tests, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="LoadTheSamePluginsWithDifferentPathNames" />
+    </UnitTest>
+    <UnitTest name="UnloadPluginAndFilterByName" storage="i:\users\przemek\documents\visual studio 2010\projects\copulation\copulation.tests\bin\debug\copulation.tests.dll" id="8faf9c6e-c09d-5cc0-8306-46142c6e2537">
+      <Execution id="47d78f90-e20d-4f29-a6a7-e4f7b459399d" />
+      <TestMethod codeBase="I:/Users/Przemek/Documents/Visual Studio 2010/Projects/Copulation/Copulation.Tests/bin/Debug/Copulation.Tests.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="Copulation.Tests.PluginManagerModelTest, Copulation.Tests, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="UnloadPluginAndFilterByName" />
+    </UnitTest>
+    <UnitTest name="LoadTwoDifferentPlugins" storage="i:\users\przemek\documents\visual studio 2010\projects\copulation\copulation.tests\bin\debug\copulation.tests.dll" id="1b1d0fb6-1b42-8649-08e7-808e35d210ed">
+      <Execution id="804221b5-02f5-4771-b65b-f22fff2e37ef" />
+      <TestMethod codeBase="I:/Users/Przemek/Documents/Visual Studio 2010/Projects/Copulation/Copulation.Tests/bin/Debug/Copulation.Tests.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="Copulation.Tests.PluginManagerModelTest, Copulation.Tests, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="LoadTwoDifferentPlugins" />
+    </UnitTest>
+    <UnitTest name="NotifyViewAfterPluginLoad" storage="i:\users\przemek\documents\visual studio 2010\projects\copulation\copulation.tests\bin\debug\copulation.tests.dll" id="f25714f7-5c67-8065-f9fa-51c7e891f7a8">
+      <Execution id="fb43d6da-36c6-46bf-a757-6cff05db2e00" />
+      <TestMethod codeBase="I:/Users/Przemek/Documents/Visual Studio 2010/Projects/Copulation/Copulation.Tests/bin/Debug/Copulation.Tests.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="Copulation.Tests.PluginManagerModelTest, Copulation.Tests, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="NotifyViewAfterPluginLoad" />
+    </UnitTest>
+    <UnitTest name="LoadPluginsAndFilterByName" storage="i:\users\przemek\documents\visual studio 2010\projects\copulation\copulation.tests\bin\debug\copulation.tests.dll" id="6ed80ea7-236d-3665-6032-ac27e08a6ccd">
+      <Execution id="51d0f24a-727d-49e5-95ed-2483c928ba25" />
+      <TestMethod codeBase="I:/Users/Przemek/Documents/Visual Studio 2010/Projects/Copulation/Copulation.Tests/bin/Debug/Copulation.Tests.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="Copulation.Tests.PluginManagerModelTest, Copulation.Tests, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="LoadPluginsAndFilterByName" />
+    </UnitTest>
+    <UnitTest name="UpdatePluginListOnFilterTextChange" storage="i:\users\przemek\documents\visual studio 2010\projects\copulation\copulation.tests\bin\debug\copulation.tests.dll" id="f18ddd56-126b-d19b-508a-ee849964ffc9">
+      <Execution id="2f2fd6cb-33ca-4a77-b695-9c87efa534c5" />
+      <TestMethod codeBase="I:/Users/Przemek/Documents/Visual Studio 2010/Projects/Copulation/Copulation.Tests/bin/Debug/Copulation.Tests.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="Copulation.Tests.PluginManagerPresenterTest, Copulation.Tests, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="UpdatePluginListOnFilterTextChange" />
+    </UnitTest>
+    <UnitTest name="LoadPluginAndDisplayInformation" storage="i:\users\przemek\documents\visual studio 2010\projects\copulation\copulation.tests\bin\debug\copulation.tests.dll" id="576cd815-c742-bf74-7822-ec679cbfd0ef">
+      <Execution id="e675dedd-ad67-4141-a35e-c06b6e28f75a" />
+      <TestMethod codeBase="I:/Users/Przemek/Documents/Visual Studio 2010/Projects/Copulation/Copulation.Tests/bin/Debug/Copulation.Tests.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="Copulation.Tests.PluginManagerPresenterTest, Copulation.Tests, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="LoadPluginAndDisplayInformation" />
+    </UnitTest>
+    <UnitTest name="DisplayPluginInformationOnPluginSelection" storage="i:\users\przemek\documents\visual studio 2010\projects\copulation\copulation.tests\bin\debug\copulation.tests.dll" id="8d4ab79a-e450-9e2f-db62-87be8d70597e">
+      <Execution id="a437ebf6-efbc-4fcf-9b32-1175ab9eb2c6" />
+      <TestMethod codeBase="I:/Users/Przemek/Documents/Visual Studio 2010/Projects/Copulation/Copulation.Tests/bin/Debug/Copulation.Tests.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="Copulation.Tests.PluginManagerPresenterTest, Copulation.Tests, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="DisplayPluginInformationOnPluginSelection" />
+    </UnitTest>
+    <UnitTest name="EnableUnloadOnPluginSelection" storage="i:\users\przemek\documents\visual studio 2010\projects\copulation\copulation.tests\bin\debug\copulation.tests.dll" id="58d2cfc3-65fc-2a51-92b3-02bb30a5e950">
+      <Execution id="f0160e1f-075a-41ba-8558-a5219f564d2b" />
+      <TestMethod codeBase="I:/Users/Przemek/Documents/Visual Studio 2010/Projects/Copulation/Copulation.Tests/bin/Debug/Copulation.Tests.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="Copulation.Tests.PluginManagerPresenterTest, Copulation.Tests, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="EnableUnloadOnPluginSelection" />
+    </UnitTest>
+    <UnitTest name="ClearFilterTextOnClearButtonPressed" storage="i:\users\przemek\documents\visual studio 2010\projects\copulation\copulation.tests\bin\debug\copulation.tests.dll" id="ae44ff09-2c3b-cbad-fc43-1b92a1d13d56">
+      <Execution id="d97ae6d7-e90e-4f12-b5c5-024ad76f3433" />
+      <TestMethod codeBase="I:/Users/Przemek/Documents/Visual Studio 2010/Projects/Copulation/Copulation.Tests/bin/Debug/Copulation.Tests.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="Copulation.Tests.PluginManagerPresenterTest, Copulation.Tests, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="ClearFilterTextOnClearButtonPressed" />
+    </UnitTest>
+    <UnitTest name="DisableUnloadOnPluginUnselection" storage="i:\users\przemek\documents\visual studio 2010\projects\copulation\copulation.tests\bin\debug\copulation.tests.dll" id="d5521a2d-b4c7-cd11-fbb3-17791d14c8f0">
+      <Execution id="1e04fff8-5562-4bde-a13e-0c0b4bd719dc" />
+      <TestMethod codeBase="I:/Users/Przemek/Documents/Visual Studio 2010/Projects/Copulation/Copulation.Tests/bin/Debug/Copulation.Tests.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="Copulation.Tests.PluginManagerPresenterTest, Copulation.Tests, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="DisableUnloadOnPluginUnselection" />
+    </UnitTest>
+  </TestDefinitions>
+  <TestLists>
+    <TestList name="Results Not in a List" id="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestList name="All Loaded Results" id="19431567-8539-422a-85d7-44ee4e166bda" />
+  </TestLists>
+  <TestEntries>
+    <TestEntry testId="1b1d0fb6-1b42-8649-08e7-808e35d210ed" executionId="804221b5-02f5-4771-b65b-f22fff2e37ef" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="576cd815-c742-bf74-7822-ec679cbfd0ef" executionId="e675dedd-ad67-4141-a35e-c06b6e28f75a" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="58d2cfc3-65fc-2a51-92b3-02bb30a5e950" executionId="f0160e1f-075a-41ba-8558-a5219f564d2b" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="6ed80ea7-236d-3665-6032-ac27e08a6ccd" executionId="51d0f24a-727d-49e5-95ed-2483c928ba25" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="8d4ab79a-e450-9e2f-db62-87be8d70597e" executionId="a437ebf6-efbc-4fcf-9b32-1175ab9eb2c6" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="8faf9c6e-c09d-5cc0-8306-46142c6e2537" executionId="47d78f90-e20d-4f29-a6a7-e4f7b459399d" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="ae44ff09-2c3b-cbad-fc43-1b92a1d13d56" executionId="d97ae6d7-e90e-4f12-b5c5-024ad76f3433" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="c989414e-5dc3-3142-66d9-2fc2d0c19752" executionId="9d643d02-b6dc-4d3d-a79f-feb36756597a" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="d5521a2d-b4c7-cd11-fbb3-17791d14c8f0" executionId="1e04fff8-5562-4bde-a13e-0c0b4bd719dc" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="f18ddd56-126b-d19b-508a-ee849964ffc9" executionId="2f2fd6cb-33ca-4a77-b695-9c87efa534c5" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="f25714f7-5c67-8065-f9fa-51c7e891f7a8" executionId="fb43d6da-36c6-46bf-a757-6cff05db2e00" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+  </TestEntries>
+  <Results>
+    <UnitTestResult executionId="804221b5-02f5-4771-b65b-f22fff2e37ef" testId="1b1d0fb6-1b42-8649-08e7-808e35d210ed" testName="LoadTwoDifferentPlugins" computerName="KOMPUTER_XP" duration="00:00:00.6816397" startTime="2011-06-23T20:57:58.1406250+02:00" endTime="2011-06-23T20:57:59.6718750+02:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="804221b5-02f5-4771-b65b-f22fff2e37ef">
+    </UnitTestResult>
+    <UnitTestResult executionId="e675dedd-ad67-4141-a35e-c06b6e28f75a" testId="576cd815-c742-bf74-7822-ec679cbfd0ef" testName="LoadPluginAndDisplayInformation" computerName="KOMPUTER_XP" duration="00:00:00.0874910" startTime="2011-06-23T20:57:59.6718750+02:00" endTime="2011-06-23T20:57:59.7656250+02:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="e675dedd-ad67-4141-a35e-c06b6e28f75a">
+    </UnitTestResult>
+    <UnitTestResult executionId="f0160e1f-075a-41ba-8558-a5219f564d2b" testId="58d2cfc3-65fc-2a51-92b3-02bb30a5e950" testName="EnableUnloadOnPluginSelection" computerName="KOMPUTER_XP" duration="00:00:00.0090076" startTime="2011-06-23T20:57:59.7656250+02:00" endTime="2011-06-23T20:57:59.7812500+02:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="f0160e1f-075a-41ba-8558-a5219f564d2b">
+    </UnitTestResult>
+    <UnitTestResult executionId="51d0f24a-727d-49e5-95ed-2483c928ba25" testId="6ed80ea7-236d-3665-6032-ac27e08a6ccd" testName="LoadPluginsAndFilterByName" computerName="KOMPUTER_XP" duration="00:00:00.0038759" startTime="2011-06-23T20:57:59.7812500+02:00" endTime="2011-06-23T20:57:59.7968750+02:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="51d0f24a-727d-49e5-95ed-2483c928ba25">
+    </UnitTestResult>
+    <UnitTestResult executionId="a437ebf6-efbc-4fcf-9b32-1175ab9eb2c6" testId="8d4ab79a-e450-9e2f-db62-87be8d70597e" testName="DisplayPluginInformationOnPluginSelection" computerName="KOMPUTER_XP" duration="00:00:00.0048509" startTime="2011-06-23T20:57:59.7968750+02:00" endTime="2011-06-23T20:57:59.8125000+02:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="a437ebf6-efbc-4fcf-9b32-1175ab9eb2c6">
+    </UnitTestResult>
+    <UnitTestResult executionId="47d78f90-e20d-4f29-a6a7-e4f7b459399d" testId="8faf9c6e-c09d-5cc0-8306-46142c6e2537" testName="UnloadPluginAndFilterByName" computerName="KOMPUTER_XP" duration="00:00:00.0048587" startTime="2011-06-23T20:57:59.8125000+02:00" endTime="2011-06-23T20:57:59.8281250+02:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="47d78f90-e20d-4f29-a6a7-e4f7b459399d">
+    </UnitTestResult>
+    <UnitTestResult executionId="d97ae6d7-e90e-4f12-b5c5-024ad76f3433" testId="ae44ff09-2c3b-cbad-fc43-1b92a1d13d56" testName="ClearFilterTextOnClearButtonPressed" computerName="KOMPUTER_XP" duration="00:00:00.0055796" startTime="2011-06-23T20:57:59.8437500+02:00" endTime="2011-06-23T20:57:59.8437500+02:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="d97ae6d7-e90e-4f12-b5c5-024ad76f3433">
+    </UnitTestResult>
+    <UnitTestResult executionId="9d643d02-b6dc-4d3d-a79f-feb36756597a" testId="c989414e-5dc3-3142-66d9-2fc2d0c19752" testName="LoadTheSamePluginsWithDifferentPathNames" computerName="KOMPUTER_XP" duration="00:00:00.0031592" startTime="2011-06-23T20:57:59.8593750+02:00" endTime="2011-06-23T20:57:59.8593750+02:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="9d643d02-b6dc-4d3d-a79f-feb36756597a">
+    </UnitTestResult>
+    <UnitTestResult executionId="1e04fff8-5562-4bde-a13e-0c0b4bd719dc" testId="d5521a2d-b4c7-cd11-fbb3-17791d14c8f0" testName="DisableUnloadOnPluginUnselection" computerName="KOMPUTER_XP" duration="00:00:00.0032615" startTime="2011-06-23T20:57:59.8750000+02:00" endTime="2011-06-23T20:57:59.8750000+02:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="1e04fff8-5562-4bde-a13e-0c0b4bd719dc">
+    </UnitTestResult>
+    <UnitTestResult executionId="2f2fd6cb-33ca-4a77-b695-9c87efa534c5" testId="f18ddd56-126b-d19b-508a-ee849964ffc9" testName="UpdatePluginListOnFilterTextChange" computerName="KOMPUTER_XP" duration="00:00:00.0077827" startTime="2011-06-23T20:57:59.8906250+02:00" endTime="2011-06-23T20:57:59.9062500+02:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="2f2fd6cb-33ca-4a77-b695-9c87efa534c5">
+    </UnitTestResult>
+    <UnitTestResult executionId="fb43d6da-36c6-46bf-a757-6cff05db2e00" testId="f25714f7-5c67-8065-f9fa-51c7e891f7a8" testName="NotifyViewAfterPluginLoad" computerName="KOMPUTER_XP" duration="00:00:00.0348361" startTime="2011-06-23T20:57:59.9062500+02:00" endTime="2011-06-23T20:57:59.9531250+02:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="fb43d6da-36c6-46bf-a757-6cff05db2e00">
+    </UnitTestResult>
+  </Results>
+</TestRun>

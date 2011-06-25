@@ -1,0 +1,140 @@
+<Configuration>
+  <RecentFiles>
+    <RecentFiles>
+      <File id="66B6D68B-9E73-44FC-8108-5ECD30FDCA6C/d:Views/d:Events/f:ViewEventHandler.cs" caret="140" fromTop="7" />
+      <File id="66B6D68B-9E73-44FC-8108-5ECD30FDCA6C/d:Models/d:Patterns/f:IModelObservable.cs" caret="2" fromTop="1" />
+      <File id="66B6D68B-9E73-44FC-8108-5ECD30FDCA6C/d:Plugins/f:IActionPlugin.cs" caret="278" fromTop="14" />
+      <File id="66B6D68B-9E73-44FC-8108-5ECD30FDCA6C/d:Plugins/f:IActionPluginDetails.cs" caret="136" fromTop="7" />
+      <File id="66B6D68B-9E73-44FC-8108-5ECD30FDCA6C/d:Forms/f:PluginManagerForm.cs" caret="0" fromTop="0" />
+      <File id="C1A1F753-862A-44AD-A77A-02B50C7E1C94/f:PluginManagerPresenterUnitTest.cs" caret="3003" fromTop="20" />
+      <File id="66B6D68B-9E73-44FC-8108-5ECD30FDCA6C/d:Views/f:IPluginManagerView.cs" caret="749" fromTop="18" />
+      <File id="66B6D68B-9E73-44FC-8108-5ECD30FDCA6C/d:Models/f:IPluginManagerModel.cs" caret="175" fromTop="8" />
+      <File id="66B6D68B-9E73-44FC-8108-5ECD30FDCA6C/d:Presenters/f:PluginManagerPresenter.cs" caret="1076" fromTop="13" />
+    </RecentFiles>
+    <RecentEdits>
+      <File id="C1A1F753-862A-44AD-A77A-02B50C7E1C94/f:PluginManagerPresenterUnitTest.cs" caret="1034" fromTop="21" />
+      <File id="C1A1F753-862A-44AD-A77A-02B50C7E1C94/f:PluginManagerPresenterUnitTest.cs" caret="948" fromTop="19" />
+      <File id="C1A1F753-862A-44AD-A77A-02B50C7E1C94/f:PluginManagerPresenterUnitTest.cs" caret="1120" fromTop="23" />
+      <File id="66B6D68B-9E73-44FC-8108-5ECD30FDCA6C/d:Presenters/f:PluginManagerPresenter.cs" caret="435" fromTop="7" />
+      <File id="66B6D68B-9E73-44FC-8108-5ECD30FDCA6C/d:Presenters/f:PluginManagerPresenter.cs" caret="792" fromTop="12" />
+      <File id="C1A1F753-862A-44AD-A77A-02B50C7E1C94/f:PluginManagerPresenterUnitTest.cs" caret="521" fromTop="11" />
+      <File id="C1A1F753-862A-44AD-A77A-02B50C7E1C94/f:PluginManagerPresenterUnitTest.cs" caret="1148" fromTop="25" />
+      <File id="C1A1F753-862A-44AD-A77A-02B50C7E1C94/f:PluginManagerPresenterUnitTest.cs" caret="889" fromTop="18" />
+      <File id="C1A1F753-862A-44AD-A77A-02B50C7E1C94/f:PluginManagerPresenterUnitTest.cs" caret="1659" fromTop="28" />
+      <File id="C1A1F753-862A-44AD-A77A-02B50C7E1C94/f:PluginManagerPresenterUnitTest.cs" caret="1456" fromTop="12" />
+      <File id="C1A1F753-862A-44AD-A77A-02B50C7E1C94/f:PluginManagerPresenterUnitTest.cs" caret="4008" fromTop="33" />
+      <File id="C1A1F753-862A-44AD-A77A-02B50C7E1C94/f:PluginManagerPresenterUnitTest.cs" caret="3980" fromTop="33" />
+      <File id="C1A1F753-862A-44AD-A77A-02B50C7E1C94/f:PluginManagerPresenterUnitTest.cs" caret="3892" fromTop="34" />
+      <File id="C1A1F753-862A-44AD-A77A-02B50C7E1C94/f:PluginManagerPresenterUnitTest.cs" caret="2319" fromTop="10" />
+      <File id="66B6D68B-9E73-44FC-8108-5ECD30FDCA6C/d:Presenters/f:PluginManagerPresenter.cs" caret="1805" fromTop="14" />
+      <File id="C1A1F753-862A-44AD-A77A-02B50C7E1C94/f:PluginManagerPresenterUnitTest.cs" caret="3458" fromTop="35" />
+      <File id="66B6D68B-9E73-44FC-8108-5ECD30FDCA6C/d:Plugins/f:IActionPlugin.cs" caret="287" fromTop="14" />
+      <File id="66B6D68B-9E73-44FC-8108-5ECD30FDCA6C/d:Plugins/f:IActionPluginDetails.cs" caret="254" fromTop="11" />
+      <File id="66B6D68B-9E73-44FC-8108-5ECD30FDCA6C/d:Plugins/f:IActionPluginDetails.cs" caret="136" fromTop="7" />
+      <File id="66B6D68B-9E73-44FC-8108-5ECD30FDCA6C/d:Models/f:IPluginManagerModel.cs" caret="42" fromTop="2" />
+      <File id="66B6D68B-9E73-44FC-8108-5ECD30FDCA6C/d:Views/f:IPluginManagerView.cs" caret="723" fromTop="29" />
+      <File id="66B6D68B-9E73-44FC-8108-5ECD30FDCA6C/d:Views/f:IPluginManagerView.cs" caret="162" fromTop="9" />
+      <File id="C1A1F753-862A-44AD-A77A-02B50C7E1C94/f:PluginManagerPresenterUnitTest.cs" caret="3149" fromTop="16" />
+      <File id="66B6D68B-9E73-44FC-8108-5ECD30FDCA6C/d:Presenters/f:PluginManagerPresenter.cs" caret="2130" fromTop="25" />
+      <File id="66B6D68B-9E73-44FC-8108-5ECD30FDCA6C/d:Presenters/f:PluginManagerPresenter.cs" caret="2370" fromTop="32" />
+      <File id="66B6D68B-9E73-44FC-8108-5ECD30FDCA6C/d:Presenters/f:PluginManagerPresenter.cs" caret="1672" fromTop="23" />
+      <File id="66B6D68B-9E73-44FC-8108-5ECD30FDCA6C/d:Models/f:IPluginManagerModel.cs" caret="212" fromTop="8" />
+      <File id="66B6D68B-9E73-44FC-8108-5ECD30FDCA6C/d:Presenters/f:PluginManagerPresenter.cs" caret="1528" fromTop="18" />
+      <File id="66B6D68B-9E73-44FC-8108-5ECD30FDCA6C/d:Presenters/f:PluginManagerPresenter.cs" caret="1503" fromTop="22" />
+      <File id="66B6D68B-9E73-44FC-8108-5ECD30FDCA6C/d:Presenters/f:PluginManagerPresenter.cs" caret="1362" fromTop="20" />
+    </RecentEdits>
+  </RecentFiles>
+  <CompletionStatisticsManager>
+    <ItemStatistics item="Qualified:Rhino.Mocks.Interfaces.IMethodOptions`1">
+      <Item value="IgnoreArguments`0" priority="53" />
+      <Item value="PropertyBehavior`0" priority="103" />
+      <Item value="SetPropertyWithArgument`0" priority="26" />
+      <Item value="Return`0" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="CSharpCodeCompletionContext">
+      <Item value="view" priority="608" />
+      <Item value="presenter" priority="31" />
+      <Item value="new" priority="159" />
+      <Item value="PluginManagerPresenter" priority="116" />
+      <Item value="using" priority="62" />
+      <Item value="model" priority="160" />
+      <Item value="Expect`0" priority="159" />
+      <Item value="SetupResult`0" priority="127" />
+      <Item value="TestMethod" priority="63" />
+      <Item value="public" priority="95" />
+      <Item value="void" priority="191" />
+      <Item value="var" priority="319" />
+      <Item value="MockRepository" priority="28" />
+      <Item value="mocks" priority="191" />
+      <Item value="IPluginManagerView`0" priority="31" />
+      <Item value="IPluginManagerModel`0" priority="31" />
+      <Item value="bool" priority="63" />
+      <Item value="_View" priority="383" />
+      <Item value="v" priority="63" />
+      <Item value="onClearFilterEvent" priority="31" />
+      <Item value="onPluginSelectEvent" priority="31" />
+      <Item value="AsyncCallback`0" priority="31" />
+      <Item value="string" priority="127" />
+      <Item value="Guid`0" priority="31" />
+      <Item value="IActionPlugin`0" priority="31" />
+      <Item value="int" priority="31" />
+      <Item value="details" priority="64" />
+      <Item value="Plugins" priority="30" />
+      <Item value="if" priority="95" />
+      <Item value="_Model" priority="159" />
+      <Item value="pluginDetails" priority="31" />
+      <Item value="isSelected" priority="63" />
+      <Item value="try" priority="63" />
+      <Item value="catch" priority="31" />
+      <Item value="Exception`0" priority="31" />
+      <Item value="e" priority="31" />
+      <Item value="out" priority="31" />
+      <Item value="index" priority="31" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Rhino.Mocks.MockRepository">
+      <Item value="Stub`1" priority="22" />
+      <Item value="CreateMock`0" priority="55" />
+      <Item value="DynamicMock`1" priority="76" />
+      <Item value="ReplayAll`0" priority="53" />
+      <Item value="VerifyAll`0" priority="53" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Copulation.Models.IPluginManagerModel">
+      <Item value="Subscribe`0" priority="26" />
+      <Item value="GetPluginDetailsBy`0" priority="53" />
+      <Item value="Unsubscribe`0" priority="27" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Copulation.Views.IPluginManagerView">
+      <Item value="Notify`0" priority="26" />
+      <Item value="UnloadEnabled" priority="76" />
+      <Item value="SelectedPluginIndex" priority="216" />
+      <Item value="GetEventRaiser`1" priority="53" />
+      <Item value="OnClearFilterEvent" priority="26" />
+      <Item value="ClearFilterText`0" priority="26" />
+      <Item value="OnPluginSelectEvent" priority="26" />
+      <Item value="ShowPluginDetails`0" priority="53" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@Rhino.Mocks.SetupResult">
+      <Item value="For`1" priority="131" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@Rhino.Mocks.Expect">
+      <Item value="Call`1" priority="80" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Rhino.Mocks.Interfaces.IEventRaiser">
+      <Item value="Raise`0" priority="53" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Exception">
+      <Item value="Message" priority="26" />
+    </ItemStatistics>
+  </CompletionStatisticsManager>
+  <NAntValidationSettings>
+    <NAntPath value="" />
+  </NAntValidationSettings>
+  <UnitTestRunner>
+    <Providers />
+  </UnitTestRunner>
+  <UnitTestRunnerNUnit>
+    <NUnitInstallDir IsNull="False">
+    </NUnitInstallDir>
+    <UseAddins>Never</UseAddins>
+  </UnitTestRunnerNUnit>
+</Configuration>

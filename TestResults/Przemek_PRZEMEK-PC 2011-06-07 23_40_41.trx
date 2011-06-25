@@ -1,0 +1,55 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<TestRun id="68627613-b985-475f-a3d6-826e0ec41d84" name="Przemek@PRZEMEK-PC 2011-06-07 23:40:41" runUser="PRZEMEK-PC\Przemek" xmlns="http://microsoft.com/schemas/VisualStudio/TeamTest/2010">
+  <TestSettings name="Local" id="7fb36c14-15e6-4256-bf84-55fadce86cd6">
+    <Description>These are default test settings for a local test run.</Description>
+    <Deployment enabled="false" runDeploymentRoot="Przemek_PRZEMEK-PC 2011-06-07 23_40_41">
+      <DeploymentItem filename="C:\Users\Przemek\Documents\Visual Studio 2010\Projects\Copulation\Copulation.Tests\Rhino.Mocks.dll" />
+      <DeploymentItem filename="C:\Users\Przemek\Documents\Visual Studio 2010\Projects\Copulation\Copulation\bin\Debug\Copulation.exe" />
+    </Deployment>
+    <Execution>
+      <TestTypeSpecific />
+      <AgentRule name="Execution Agents">
+      </AgentRule>
+    </Execution>
+  </TestSettings>
+  <Times creation="2011-06-07T23:40:41.8083797+02:00" queuing="2011-06-07T23:40:41.8433817+02:00" start="2011-06-07T23:40:41.8583826+02:00" finish="2011-06-07T23:40:42.8964419+02:00" />
+  <ResultSummary outcome="Failed">
+    <Counters total="1" executed="1" error="0" failed="1" timeout="0" aborted="0" inconclusive="0" passedButRunAborted="0" notRunnable="0" notExecuted="0" disconnected="0" warning="0" passed="0" completed="0" inProgress="0" pending="0" />
+  </ResultSummary>
+  <TestDefinitions>
+    <UnitTest name="UnloadPluginAndFilterByName" storage="c:\users\przemek\documents\visual studio 2010\projects\copulation\copulation.tests\bin\debug\copulation.tests.dll" id="8faf9c6e-c09d-5cc0-8306-46142c6e2537">
+      <Execution id="cf457362-d1a7-4b2a-a244-4f75c98d0652" />
+      <TestMethod codeBase="C:/Users/Przemek/Documents/Visual Studio 2010/Projects/Copulation/Copulation.Tests/bin/Debug/Copulation.Tests.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="Copulation.Tests.PluginManagerModelTest, Copulation.Tests, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="UnloadPluginAndFilterByName" />
+    </UnitTest>
+  </TestDefinitions>
+  <TestLists>
+    <TestList name="Results Not in a List" id="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestList name="All Loaded Results" id="19431567-8539-422a-85d7-44ee4e166bda" />
+  </TestLists>
+  <TestEntries>
+    <TestEntry testId="8faf9c6e-c09d-5cc0-8306-46142c6e2537" executionId="cf457362-d1a7-4b2a-a244-4f75c98d0652" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+  </TestEntries>
+  <Results>
+    <UnitTestResult executionId="cf457362-d1a7-4b2a-a244-4f75c98d0652" testId="8faf9c6e-c09d-5cc0-8306-46142c6e2537" testName="UnloadPluginAndFilterByName" computerName="PRZEMEK-PC" duration="00:00:00.4180887" startTime="2011-06-07T23:40:41.8873842+02:00" endTime="2011-06-07T23:40:42.8424388+02:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Failed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="cf457362-d1a7-4b2a-a244-4f75c98d0652">
+      <Output>
+        <ErrorInfo>
+          <Message>Test method Copulation.Tests.PluginManagerModelTest.UnloadPluginAndFilterByName threw exception: 
+Copulation.Models.Exceptions.LoadPluginException:  ---&gt; Rhino.Mocks.Exceptions.ExpectationViolationException: IModelObserver.Notify(); Expected #0, Actual #1.</Message>
+          <StackTrace>    at Rhino.Mocks.MethodRecorders.MethodRecorderBase.GetRepeatableExpectation(Object proxy, MethodInfo method, Object[] args)
+   at Rhino.Mocks.Impl.ReplayMockState.MethodCall(IInvocation invocation, MethodInfo method, Object[] args)
+   at Rhino.Mocks.MockRepository.MethodCall(IInvocation invocation, Object proxy, MethodInfo method, Object[] args)
+   at Rhino.Mocks.Impl.Invocation.Actions.RegularInvocation.PerformAgainst(IInvocation invocation)
+   at Rhino.Mocks.Impl.RhinoInterceptor.Intercept(IInvocation invocation)
+   at Castle.DynamicProxy.AbstractInvocation.Proceed()
+   at Castle.Proxies.IPluginManagerViewProxybf48ff087f9d4e5c80664edb2a2795c3.IModelObserver.Notify()
+   at Copulation.Models.BaseModel.NotifyObservers() in C:\Users\Przemek\Documents\Visual Studio 2010\Projects\Copulation\Copulation\Models\BaseModel.cs:line 38
+   at Copulation.Models.PluginManagerModel.LoadPluginFrom(String path) in C:\Users\Przemek\Documents\Visual Studio 2010\Projects\Copulation\Copulation\Models\PluginManagerModel.cs:line 84
+ --- End of inner exception stack trace ---
+    at Copulation.Models.PluginManagerModel.LoadPluginFrom(String path) in C:\Users\Przemek\Documents\Visual Studio 2010\Projects\Copulation\Copulation\Models\PluginManagerModel.cs:line 92
+   at Copulation.Tests.PluginManagerModelTest.UnloadPluginAndFilterByName() in C:\Users\Przemek\Documents\Visual Studio 2010\Projects\Copulation\Copulation.Tests\PluginManagerModelTest.cs:line 167
+</StackTrace>
+        </ErrorInfo>
+      </Output>
+    </UnitTestResult>
+  </Results>
+</TestRun>

@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<TestRun id="344cc623-d7af-4cf6-88b4-e994ff39cae4" name="Przemek@PRZEMEK-PC 2011-06-07 23:39:42" runUser="PRZEMEK-PC\Przemek" xmlns="http://microsoft.com/schemas/VisualStudio/TeamTest/2010">
+  <TestSettings name="Local" id="7fb36c14-15e6-4256-bf84-55fadce86cd6">
+    <Description>These are default test settings for a local test run.</Description>
+    <Deployment enabled="false" runDeploymentRoot="Przemek_PRZEMEK-PC 2011-06-07 23_39_42">
+      <DeploymentItem filename="C:\Users\Przemek\Documents\Visual Studio 2010\Projects\Copulation\Copulation.Tests\Rhino.Mocks.dll" />
+      <DeploymentItem filename="C:\Users\Przemek\Documents\Visual Studio 2010\Projects\Copulation\Copulation\bin\Debug\Copulation.exe" />
+    </Deployment>
+    <Execution>
+      <TestTypeSpecific />
+      <AgentRule name="Execution Agents">
+      </AgentRule>
+    </Execution>
+  </TestSettings>
+  <Times creation="2011-06-07T23:39:42.1569678+02:00" queuing="2011-06-07T23:39:42.1929699+02:00" start="2011-06-07T23:39:42.2079707+02:00" finish="2011-06-07T23:39:43.2280291+02:00" />
+  <ResultSummary outcome="Completed">
+    <Counters total="1" executed="1" passed="1" error="0" failed="0" timeout="0" aborted="0" inconclusive="0" passedButRunAborted="0" notRunnable="0" notExecuted="0" disconnected="0" warning="0" completed="0" inProgress="0" pending="0" />
+  </ResultSummary>
+  <TestDefinitions>
+    <UnitTest name="UnloadPluginAndFilterByName" storage="c:\users\przemek\documents\visual studio 2010\projects\copulation\copulation.tests\bin\debug\copulation.tests.dll" id="8faf9c6e-c09d-5cc0-8306-46142c6e2537">
+      <Execution id="22a5bd99-1d1b-4853-bf74-47c3c51b2022" />
+      <TestMethod codeBase="C:/Users/Przemek/Documents/Visual Studio 2010/Projects/Copulation/Copulation.Tests/bin/Debug/Copulation.Tests.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="Copulation.Tests.PluginManagerModelTest, Copulation.Tests, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="UnloadPluginAndFilterByName" />
+    </UnitTest>
+  </TestDefinitions>
+  <TestLists>
+    <TestList name="Results Not in a List" id="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestList name="All Loaded Results" id="19431567-8539-422a-85d7-44ee4e166bda" />
+  </TestLists>
+  <TestEntries>
+    <TestEntry testId="8faf9c6e-c09d-5cc0-8306-46142c6e2537" executionId="22a5bd99-1d1b-4853-bf74-47c3c51b2022" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+  </TestEntries>
+  <Results>
+    <UnitTestResult executionId="22a5bd99-1d1b-4853-bf74-47c3c51b2022" testId="8faf9c6e-c09d-5cc0-8306-46142c6e2537" testName="UnloadPluginAndFilterByName" computerName="PRZEMEK-PC" duration="00:00:00.4227122" startTime="2011-06-07T23:39:42.2309721+02:00" endTime="2011-06-07T23:39:43.1810264+02:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="22a5bd99-1d1b-4853-bf74-47c3c51b2022">
+    </UnitTestResult>
+  </Results>
+</TestRun>
